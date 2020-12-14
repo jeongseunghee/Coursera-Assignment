@@ -1,0 +1,47 @@
+/* -------------- font family and title -------------- */
+
+* {
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: #e0f7fa;
+}
+
+h2, h3 {
+    font-weight: 700;
+}
+
+h2 {
+    margin: 0.2em;
+}
+
+header {
+    text-align: center;
+    margin: 2em;
+}
+
+.nav-item {
+    text-align: center;
+    margin: 10px auto;
+}
+
+/* -------------- contents box -------------- */
+
+.content-box {
+    background-color: #aec4c7;
+}
+
+.content-title {
+    text-align: center;
+    padding: 1.5em;
+}
+
+.paragraph {
+    min-height: 400px;
+    padding: 0px 20px 30px 20px;
+    text-align: left;
+    line-height: 1.4em;
+    margin: 20px 20px;
+}

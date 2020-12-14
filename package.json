@@ -1,0 +1,28 @@
+{
+  "name": "mod2_solution",
+  "version": "1.0.0",
+  "description": "mod2_solution",
+  "main": "index.js",
+  "dependencies": {
+    "3": "^2.1.0",
+    "-": "^0.0.1",
+    "@popperjs/core": "^2.5.4",
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeongseunghee/Coursera-Assignment.git"
+  },
+  "author": "Seung Hee Jeong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeongseunghee/Coursera-Assignment/issues"
+  },
+  "homepage": "https://github.com/jeongseunghee/Coursera-Assignment#readme"
+}
